@@ -1,0 +1,5 @@
+{
+  "sqlDriverURL": "jdbc:mysql://localhost:3306/union_reporting?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC"
+  "user": "root",
+  "password": "1355725"
+}

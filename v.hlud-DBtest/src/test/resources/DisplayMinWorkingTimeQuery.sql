@@ -1,0 +1,1 @@
+SELECT project.name AS Project,test.name AS Test,test.end_time-test.start_time AS minWorkingTime FROM test JOIN project ON test.project_id=project.id ORDER BY project.name,test.name

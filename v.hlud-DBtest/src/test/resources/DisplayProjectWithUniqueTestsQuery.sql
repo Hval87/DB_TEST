@@ -1,0 +1,1 @@
+SELECT project.name AS Project,count(test.name) AS testsCount FROM test JOIN  project ON test.project_id=project.id GROUP BY test.project_id
